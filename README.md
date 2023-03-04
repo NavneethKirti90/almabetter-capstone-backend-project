@@ -11,7 +11,7 @@ Get YouTube Subscribers - Backend Capstone Project
 3. We are using MONGODB CLOUD for database
 
 HTTP request methods used in the project
-GET http://localhost:3000/ → The client will see the “Hello User!” message which is used to verify that application is working properly.
+GET http://localhost:3000/ → The client will see the “This capstone project is done by Navneeth kirti.” message which is used to verify that application is working properly.
 
 GET http://localhost:3000/subscribers → When the user hit this, endpoint /subscribers, the client will get an array of all subscribers in JSON format from the database where the data is stored in local MongoDB database.
 
